@@ -1,3 +1,5 @@
 # Revanish
 
-A description of this package.
+By Revanth Matha
+
+Contains useful functions and UIComponents.
